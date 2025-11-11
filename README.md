@@ -14,8 +14,7 @@ Built using HTML, CSS, and JavaScript, this app fetches live images from an exte
 
 - *[4K Wallpaper Library](https://mohannadiscoding.github.io/wallpaper-grapper/)*
 
-
-![App Screenshot](https://i.ibb.co/YFnTcGnm/Screenshot-2025-11-10-213326.png)
+![App Screenshot](https://raw.githubusercontent.com/MohannadIsCoding/wallpaper-library/refs/heads/master/preview/previewImage.png)
 
 
 ## Features
